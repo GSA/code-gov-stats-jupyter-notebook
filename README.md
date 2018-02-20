@@ -1,6 +1,8 @@
 # Code.gov stats with Jupyter Notebook
 Extract some stats for Code.gov using the Github GraphQL API
 
+To view the [Jupyter Notebook](https://github.com/GSA/code-gov-stats-jupyter-notebook/blob/master/code-gov-github-stats.ipynb)
+
 This repository is useful once you have all unique repository owners (AKA agencies for Code.gov).
 
 The goal is to extract some basic repository information / stats from the Code.gov inventory. The data we are interested in is:
