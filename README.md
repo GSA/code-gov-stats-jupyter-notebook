@@ -46,6 +46,7 @@ This Jupyter Notebook makes use of Github GraphQL API (API v4). If you are unfam
 We also recommend taking a look at [Github's GraphQL API v4 Explorer](https://developer.github.com/v4/explorer/). With tool you will be able to test the GraphQL queries that we use in this notebook.
 
 ## Python Dependencies
+- Python 3.6+ - Should work with other versions of Python but has not been tested.
 - Jupyter Notebook: To read up on how to install please visit [Jupyter.org - Install](http://jupyter.org/install)
 - [graphcool/python-graphql-client](https://github.com/graphcool/python-graphql-client)
   ```
