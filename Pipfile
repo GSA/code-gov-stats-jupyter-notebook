@@ -6,8 +6,11 @@ name = "pypi"
 [packages]
 jupyter = "*"
 graphqlclient = "*"
+requests = "*"
+dotenv-python = "*"
 
 [dev-packages]
+pylint = "*"
 
 [requires]
 python_version = "3.6"
