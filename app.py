@@ -31,7 +31,7 @@ def get_gh_query(repo_owner, repo_name, gh_cursor=None):
                         login
                     }
                 }
-                issues(first: 100, labels: ["help wanted"], after: %s) {
+                issues(first: 100, labels: ["help wanted", "code.gov"], after: %s) {
                     nodes {
                         title
                         bodyHTML
