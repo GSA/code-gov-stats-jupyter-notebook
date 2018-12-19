@@ -106,3 +106,6 @@ venv.bak/
 coverage
 .nyc_output
 .vscode
+open-tasks/
+*.csv
+*.zip
