@@ -109,3 +109,4 @@ coverage
 open-tasks/
 *.csv
 *.zip
+.DS_Store
