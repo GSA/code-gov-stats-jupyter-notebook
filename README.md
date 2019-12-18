@@ -1,4 +1,7 @@
-# Code.gov stats with Jupyter Notebook
+# DEPRECATED 
+## This project repo is no longer being maintained. For more information on code-gov repos, go to [GSA/code-gov](https://github.com/GSA/code-gov).
+
+## Code.gov stats with Jupyter Notebook
 Extract some stats for Code.gov using the Github GraphQL API
 
 To view the [Jupyter Notebook](https://github.com/GSA/code-gov-stats-jupyter-notebook/blob/master/code-gov-github-stats.ipynb)
